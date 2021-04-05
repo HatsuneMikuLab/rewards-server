@@ -1,0 +1,1 @@
+RUN command: npm start
